@@ -13,12 +13,12 @@ Pygame Library (https://www.pygame.org/)
 4. Score and Lives: The player's score increases with each enemy spaceship destroyed, and the player starts with a certain number of lives. Lives are reduced when the player's spaceship is hit by enemy bullets, and the game ends when all lives are lost.
 5. Game Over: When the game ends, the player is presented with a game over screen displaying their final score and an option to restart the game.
 ### How to Run
-Install Python on your local machine (https://www.python.org/downloads/).
-Install Pygame library using pip: pip install pygame
-Clone the repository from GitHub: git clone https://github.com/NehaPatil03/spaceship-game.git
-Navigate to the cloned directory: cd spaceship-game
-Run the game: python game.py
-Use arrow keys to move the spaceship and press the spacebar to shoot bullets.
+1. Install Python on your local machine (https://www.python.org/downloads/).
+2. Install Pygame library using pip: pip install pygame
+3. Clone the repository from GitHub: git clone https://github.com/NehaPatil03/spaceship-game.git
+4. Navigate to the cloned directory: cd spaceship-game
+5. Run the game: python game.py
+6. shooting for player-1(Yellow Player) use alt+ctrl and for player-2(Red player) use alt key.
 ### Future Enhancements
 Add different levels with increasing difficulty.
 Include power-ups and special abilities for the player's spaceship.
